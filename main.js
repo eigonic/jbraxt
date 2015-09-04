@@ -34,7 +34,7 @@ define(function (require, exports, module) {
         make sure you selected the "disable cache" option.
         You should see the following log burried under other logs
     */
-    console.log("INITIALIZING jspx  EXTENSION");
+    console.log("INITIALIZING jspx - jbraxt EXTENSION");
     
         
     /*
@@ -51,7 +51,12 @@ define(function (require, exports, module) {
     // This holds the list of all default commands
         Commands = brackets.getModule("command/Commands"),
     // This lets us do things through the native app shell
-        NativeApp = brackets.getModule("utils/NativeApp");
+        NativeApp = brackets.getModule("utils/NativeApp"),
+		"keywords": [
+			"brackets",
+			"jade",
+			"snippets"
+		],;
 
     
     

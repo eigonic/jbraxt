@@ -2,11 +2,11 @@
 
 This extension was created to make building Jspx pages easier.
 
-The toolkit:
+It:
 
 *	Contains a hints for jspx non-standard tags (DataTable, ListTable, AutoComplete, Datalookup,...).
 *	Adds useful shortcuts to open Controller Java file.
-*	Check for common errors like duplicate Tag ID and duplicate attributes on the same tag.
+*	Checkes for common errors like duplicate Tag ID and duplicate attributes on the same tag.
 
 ##Install from URL
 
@@ -16,3 +16,6 @@ The toolkit:
 
 ##Jspx 
 http://jspx.sf.net
+
+
+

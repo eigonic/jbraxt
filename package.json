@@ -4,7 +4,7 @@
     "description": "An extension to make building jspx pages easier.",
     "homepage": "https://github.com/eigonic/jbraxt",
     "version": "1.0.0",
-    "author": "Amr ElAdawy",
+    "author": "Amr ElAdawy (https://github.com/amreladawy)",
     "license": "Apache License 2.0",
     "engines": {
         "brackets": ">=0.20.0"

@@ -1,4 +1,4 @@
-#jBraxt - Jspx Extention for Brackets
+#jBraxt - Jspx Extension for Brackets
 
 This extension was created to make building Jspx pages easier.
 

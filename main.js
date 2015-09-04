@@ -34,7 +34,7 @@ define(function (require, exports, module) {
         make sure you selected the "disable cache" option.
         You should see the following log burried under other logs
     */
-    console.log("INITIALIZING EXTENSION TUTORIAL");
+    console.log("INITIALIZING jspx  EXTENSION");
     
         
     /*
